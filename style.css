@@ -464,8 +464,8 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
-    background: rgba(0, 0, 0, .3);
+    color: #FFF !important;
+    background: rgba(0, 0, 0, 0.3);
 }
 
 button {
@@ -659,7 +659,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    color: #575757;
 }
 
 .container {
